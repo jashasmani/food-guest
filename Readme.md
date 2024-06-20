@@ -1,1 +1,2 @@
-# This project contain recipes for preparing jeara Rice and Dal Fry.
+# docker build -t html .
+# docker run -d --name  html-con -p 8081:80 html
